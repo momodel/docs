@@ -2,7 +2,7 @@
 
 ------
 
-Module也称为模组，可分为model和toolkit两类，model和toolkit最大的区别在于，model是可以在发布后由调用方进行二次训练的模型，toolkit是只能进行预测的模型。
+Module也称为模块，分为model和toolkit两类，model和toolkit最大的区别在于，model是可以在发布后由调用方进行二次训练的模型，toolkit是只能进行预测的模型。
 
 下面我们来一起来创建您的第一个module吧。在workspace内新建模块，填写名称，填写描述，并选择类别为model，点击OK按钮。
 
