@@ -1,5 +1,5 @@
 
-# <img src="./media/mo.svg" width="120" height="120" />
+# <img src="./media/mo.svg" opacity="0.7" width="120" height="120" />
 
 > Open platform for rapid data exploration and modelling
 
