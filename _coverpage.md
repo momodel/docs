@@ -1,10 +1,10 @@
 
 # <img src="./media/mo.svg" style="opacity: 0.7;" width="120" height="120" />
 
-> Open platform for rapid data exploration and modelling
+> Mo是一个支持数据分析和在线建模的开放平台
 
-* start your AI journey easily
+* 开启你的AI之旅
 * 
 
 [GitHub](https://github.com/momodel)
-[Get Started](#平台介绍)
+[帮助文档](#平台介绍)
