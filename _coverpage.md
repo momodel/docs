@@ -7,4 +7,4 @@
 * 
 
 [GitHub](https://github.com/momodel)
-[帮助文档](#平台介绍)
+[帮助文档](#流程介绍)
