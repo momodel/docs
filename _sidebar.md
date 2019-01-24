@@ -1,4 +1,4 @@
-* [简介](zh-cn/简介.md)
+* [简介](zh-cn/introduction.md)
 * [基本界面](zh-cn/基本界面.md)
 * [平台教程](zh-cn/平台教程.md)
 * [边学边做](zh-cn/边学边做.md)
