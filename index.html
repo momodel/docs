@@ -35,8 +35,11 @@
             coverpage: false,
             maxLevel: 4,
             search: {
-		    placeholder: '搜索',
-	    }, // 默认值
+		    placeholder: {
+        		'/zh-cn/': '搜索',
+        		'/': 'Type to search'
+      		    },
+	    },
             plugins: [
               function (hook) {
                 var footer = [
