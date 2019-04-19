@@ -1,12 +1,12 @@
-## 在 Mo 运行你的第一段代码
+# 在 Mo 运行你的第一段代码
 
-### 1. 在训练营中点击创建项目
+## 1. 在训练营中点击创建项目
 你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`在Mo运行你的第一段代码`，来按照教程中的`.ipynb`文件指引边学边做，熟悉Mo使用方法和开发流程。
 
 
 <img src='https://ws2.sinaimg.cn/large/006tKfTcly1g0ifdag43tj31od0u0ti0.jpg' width=100% height=100%>
 
-### 2. 在Mo运行你的第一行代码
+## 2. 在Mo运行你的第一行代码
 
 你可以通过新建一个Notebook文件运行以下代码，也可以直接打开工程项目中的提供的Notebook文件直接运行。
 ```python
@@ -17,7 +17,7 @@ print('Hello, MO!')
 Hello, MO!
 ```
 
-### 3. 在Mo上你可以使用 Tensorflow
+## 3. 在Mo上你可以使用 Tensorflow
 
  使用 Mo 可直接在浏览器中执行 TensorFlow 代码。下面的代码示例展示了两个矩阵相加的情况。
 <img src='https://ws1.sinaimg.cn/large/006tNbRwly1fxx3qwfrsej30kk03st8u.jpg' width=50% height=50%>
@@ -41,7 +41,7 @@ array([[2., 3., 4.],
 ```
 
 
-### 4. 在 Mo 上你可以方便地进行数据可视化
+## 4. 在 Mo 上你可以方便地进行数据可视化
 你可以使用 Python matplotlib 模块很方便的进行数据可视化。
 
 ```python
@@ -56,7 +56,7 @@ plt.plot(x, y, 'o', np.arange(15), a*np.arange(15)+b, '-');
 
 <img src='https://ws4.sinaimg.cn/large/006tKfTcgy1g0m7c2xvwgj30ku0dit9u.jpg' width=50% height=50%>
 
-### 5. 在 Mo 上你可以方便使用 SKlearn 等机器学习工具包
+## 5. 在 Mo 上你可以方便使用 SKlearn 等机器学习工具包
 Mo 已安装了机器学习中经常会用到的库，例如 tensorflow，sklearn，pytorch等。
 下面的代码展示了在Iris数据集上使用sklearn提供的logistic-regression classifier进行分类。
 
