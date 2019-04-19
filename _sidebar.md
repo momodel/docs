@@ -8,6 +8,7 @@
 * [在 GPU 或 CPU 资源上训练机器学习模型](zh-cn/在 GPU 或 CPU 资源上训练机器学习模型.md)
 * [利用 TensorBoard 可视化评估模型](zh-cn/利用 TensorBoard 可视化评估模型.md)
 * [把模型转换为 TensorFlow Lite 格式](zh-cn/把模型转换为 TensorFlow Lite 格式.md)
+* [如何在 Notebook 中节省运行内存](zh-cn/如何在 Notebook 中节省运行内存.md)
 * [如何成为模块开发者](zh-cn/如何成为模块开发者.md)
 * [使用条款](zh-cn/使用条款.md)
 * [隐私政策](zh-cn/隐私政策.md)
