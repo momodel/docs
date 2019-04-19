@@ -1,7 +1,7 @@
 # 在 Mo 运行你的第一段代码
 
 ## 1. 在训练营中点击创建项目
-你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`在Mo运行你的第一段代码`，来按照教程中的`.ipynb`文件指引边学边做，熟悉Mo使用方法和开发流程。
+你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`在 Mo 运行你的第一行代码`，来按照教程中的`.ipynb`文件指引边学边做，熟悉Mo使用方法和开发流程。
 
 
 <img src='https://ws2.sinaimg.cn/large/006tKfTcly1g0ifdag43tj31od0u0ti0.jpg' width=100% height=100%>
