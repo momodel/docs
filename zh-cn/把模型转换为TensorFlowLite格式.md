@@ -1,4 +1,4 @@
-# 把模型转换为TensorFlowLite格式
+# 把模型转换为 TensorFlow Lite 格式
 你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`把模型转换为 TensorFlow Lite 格式`，来按照教程中的`.ipynb`文件指引边学边做，学习如何利用 TensorBoard 可视化评估模型。
 ## 1. 简介
 TensorFlow Lite 是 TensorFlow 针对移动和嵌入式设备的轻量级解决方案。它赋予了这些设备在终端本地运行机器学习模型的能力，从而不再需要向云端服务器发送数据。这样一来，不但节省了网络流量、减少了时间开销，而且还充分帮助用户保护自己的隐私和敏感信息。本部分将指引你把训练好的机器学习模型转换为手机或嵌入式设备可以使用的 TensorFlow Lite 格式。
