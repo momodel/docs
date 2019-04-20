@@ -6,7 +6,7 @@
 * [开发和部署一个应用（app）](zh-cn/开发和部署一个应用（app）.md)
 * [在GPU或CPU资源上训练机器学习模型](zh-cn/在GPU或CPU资源上训练机器学习模型.md)
 * [利用TensorBoard可视化评估模型](zh-cn/利用TensorBoard可视化评估模型.md)
-* [把模型转换为TensorFlow Lite格式](zh-cn/把模型转换为TensorFlow%20Lite格式.md)
+* [把模型转换为TensorFlowLite格式](zh-cn/把模型转换为TensorFlowLite格式.md)
 * [如何在Notebook中节省运行内存](zh-cn/如何在Notebook中节省运行内存.md)
 * [如何成为模块开发者](zh-cn/如何成为模块开发者.md)
 * [使用条款](zh-cn/使用条款.md)
