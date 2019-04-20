@@ -1,10 +1,10 @@
 # 把模型转换为TensorFlowLite格式
-你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`把模型转换为 TensorFlow Lite 格式`，来按照教程中的`.ipynb`文件指引边学边做，学习如何利用TensorBoard可视化评估模型。
+你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`把模型转换为 TensorFlow Lite 格式`，来按照教程中的`.ipynb`文件指引边学边做，学习如何利用 TensorBoard 可视化评估模型。
 ## 1. 简介
-TensorFlow Lite 是 TensorFlow 针对移动和嵌入式设备的轻量级解决方案。它赋予了这些设备在终端本地运行机器学习模型的能力，从而不再需要向云端服务器发送数据。这样一来，不但节省了网络流量、减少了时间开销，而且还充分帮助用户保护自己的隐私和敏感信息。本部分将指引你把训练好的机器学习模型转换为手机或嵌入式设备可以使用的TensorFlow Lite 格式。
+TensorFlow Lite 是 TensorFlow 针对移动和嵌入式设备的轻量级解决方案。它赋予了这些设备在终端本地运行机器学习模型的能力，从而不再需要向云端服务器发送数据。这样一来，不但节省了网络流量、减少了时间开销，而且还充分帮助用户保护自己的隐私和敏感信息。本部分将指引你把训练好的机器学习模型转换为手机或嵌入式设备可以使用的 TensorFlow Lite 格式。
 
 ## 2. 准备训练好的模型
-当转换为TensorFlow Lite格式时，需要将模型和权重都保存在同一个文件中。如果你在 Tensorflow 框架下构建并训练你的模型，你需要将模型保存为SavedModel格式。SavedModel 是一种独立于语言且可恢复的序列化格式，使较高级别的系统和工具可以创建、使用和转换 TensorFlow 模型。创建 SavedModel 的最简单方法是使用 ```tf.saved_model.simple_save``` 函数。更多关于SavedModel 的信息请见[官方文档](https://www.tensorflow.org/programmers_guide/saved_model)。
+当转换为 TensorFlow Lite 格式时，需要将模型和权重都保存在同一个文件中。如果你在 Tensorflow 框架下构建并训练你的模型，你需要将模型保存为 SavedModel 格式。SavedModel 是一种独立于语言且可恢复的序列化格式，使较高级别的系统和工具可以创建、使用和转换 TensorFlow 模型。创建 SavedModel 的最简单方法是使用 ```tf.saved_model.simple_save``` 函数。更多关于SavedModel 的信息请见[官方文档](https://www.tensorflow.org/programmers_guide/saved_model)。
 
 如果你在 Tensorflow Keras 框架下构建并训练你的模型，你可以使用 ```tf.keras.models.save_model``` 函数将模型和权重都保存在同一个模型文件中，这里我们通过构建一个keras简单模型并且保存训练好的模型，得到```.h5```后缀的模型文件。
 
