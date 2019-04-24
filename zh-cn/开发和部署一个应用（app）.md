@@ -6,7 +6,7 @@
 
 ## 2. 新建一个 Notebook
 你新建的任何应用Notebook都默认有下面这个cell代码，这部分代码是系统自动生成的，主要作用是引入一些默认的包、Client和其他一些控制文件。
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fxwyz1al2oj31fe0s6ag3.jpg)
+![](https://ww3.sinaimg.cn/large/006tNbRwly1fxwyz1al2oj31fe0s6ag3.jpg)
 
 ## 3. 调用他人发布公开的模块
 在 Mo 的 Notebook 中，我们可以轻松的在我们自己的代码中，插入别人已经编写好的模块 (Module)。
