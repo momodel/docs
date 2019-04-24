@@ -125,7 +125,7 @@ print('Test score:', score[0])
 print('Test accuracy:', score[1])
 ```
 
-*如果觉得训练时间太长, 可以直接点击 Notebook 顶部的<img src='https://ws2.sinaimg.cn/large/006tNbRwly1fwq7j59wg1j3014016web.jpg' width='30px'>按钮停止程序的运行, 然后到下一小节, 把以上代码转换为py类型的文件，通过创建 Job 任务的方式训练模型。*
+*如果觉得训练时间太长, 可以直接点击 Notebook 顶部的<img src='https://ww3.sinaimg.cn/large/006tNbRwly1fwq7j59wg1j3014016web.jpg' width='30px'>按钮停止程序的运行, 然后到下一小节, 把以上代码转换为py类型的文件，通过创建 Job 任务的方式训练模型。*
 
 最后保存训练好的模型
 
@@ -137,7 +137,7 @@ model.save('results/my_model.h5')
 
 ## 3. 导出代码为 Python 文件
 由于加入了深层卷积网络, 此次训练过程可能会比较长, 我们不推荐在 Notebook 中进行长时间训练, 最好的方法是通过创建一个GPU Job后台训练模型。 
-Notebook 中的代码是在 *.ipynb 文件下的，为之后创建Job和部署做准备，点击 <img src='https://ws3.sinaimg.cn/large/006tNbRwly1fxqddttxauj301e014mx0.jpg' width=3% height=3%> 将其转为 `.py` 格式的标准 python 代码。然后整理你的代码，完成测试后，即可进行下一步的操作。  
+Notebook 中的代码是在 *.ipynb 文件下的，为之后创建Job和部署做准备，点击 <img src='https://ww3.sinaimg.cn/large/006tNbRwly1fxqddttxauj301e014mx0.jpg' width=3% height=3%> 将其转为 `.py` 格式的标准 python 代码。然后整理你的代码，完成测试后，即可进行下一步的操作。  
 
 *如果你是从模版中创建的项目，我们已经为你准备好了一份整理好的 `How_Train_Model.py` 文件, 你可以从左侧 'Files' 文件目录中双击查看, 并直接进行下一步。*  
 
@@ -148,8 +148,8 @@ Notebook 中的代码是在 *.ipynb 文件下的，为之后创建Job和部署�
 
 
 ## 5. 查看 Job 运行进程
-<img src='https://ws2.sinaimg.cn/large/006tNbRwly1fxrcfulc28j30ru0fg0tw.jpg' width=50% height=50%>
-<img src='https://ws4.sinaimg.cn/large/006tNbRwly1fxrcixv7oyj30sq0siagf.jpg' width=50% height=50%>
+<img src='https://ww3.sinaimg.cn/large/006tNbRwly1fxrcfulc28j30ru0fg0tw.jpg' width=50% height=50%>
+<img src='https://ww3.sinaimg.cn/large/006tNbRwly1fxrcixv7oyj30sq0siagf.jpg' width=50% height=50%>
 
 
 ## 6. 训练指标的可视化
@@ -190,4 +190,4 @@ print('{"metric": "<metric_name>", "value": <int_or_float>, "epoch": <int>}')
 ```
 
 然后,可以在项目详情页的任务部分,查看可视化结果。
-![](https://ws4.sinaimg.cn/large/006tNc79ly1fzapx8hi01j31mn0u0q6u.jpg)
+![](https://ww3.sinaimg.cn/large/006tNc79ly1fzapx8hi01j31mn0u0q6u.jpg)
