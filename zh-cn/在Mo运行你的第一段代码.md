@@ -6,7 +6,7 @@
 
 <img src='http://imgbed.momodel.cn/5cc1a291e3067ceb154f0e5c.jpg' width=100% height=100%>
 
-## 2. 在Mo运行你的第一行代码
+## 2. 在 Mo 运行你的第一行代码
 
 你可以通过新建一个Notebook文件运行以下代码，也可以直接打开工程项目中的提供的Notebook文件直接运行。
 ```python
@@ -17,7 +17,7 @@ print('Hello, MO!')
 Hello, MO!
 ```
 
-## 3. 在Mo上你可以使用 Tensorflow
+## 3. 你可以使用 Tensorflow
 
  使用 Mo 可直接在浏览器中执行 TensorFlow 代码。下面的代码示例展示了两个矩阵相加的情况。
 <img src='http://imgbed.momodel.cn/5cc1a292e3067ceb154f0e5d.jpg' width=50% height=50%>
@@ -41,7 +41,7 @@ array([[2., 3., 4.],
 ```
 
 
-## 4. 在 Mo 上你可以方便地进行数据可视化
+## 4. 你可以方便地进行数据可视化
 你可以使用 Python matplotlib 模块很方便的进行数据可视化。
 
 ```python
@@ -56,7 +56,7 @@ plt.plot(x, y, 'o', np.arange(15), a*np.arange(15)+b, '-');
 
 <img src='http://imgbed.momodel.cn/5cc1a291e3067ceb154f0e5a.jpg' width=50% height=50%>
 
-## 5. 在 Mo 上你可以方便使用 SKlearn 等机器学习工具包
+## 5. 你可以使用 SKlearn 等机器学习工具包
 Mo 已安装了机器学习中经常会用到的库，例如 tensorflow，sklearn，pytorch等。
 下面的代码展示了在Iris数据集上使用sklearn提供的logistic-regression classifier进行分类。
 
@@ -111,3 +111,23 @@ plt.show()
 ```
 
 <img src='http://imgbed.momodel.cn/5cc1a291e3067ceb154f0e5b.jpg' width=50% height=50%>
+
+## 6. 你可以插入或分享代码块
+代码块是具有某个特定功能的代码片段。当你在 Notebook 中进行程序开发时，如果想实现某个功能函数，可以先试着搜索一下代码块，可能会找到你想要的代码，不用再重新撰写。代码块设计的用意是为了减少不必要的重复代码编写。
+<a name="FFtCI"></a>
+### 1. 代码块插入
+在 Notebook 中选择你要插入代码块的 celll 点击左上角的 + 号按钮，打开搜寻代码块界面。
+
+![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752432-4778d991-e372-4581-b40d-6050a08c8cc3.jpeg#align=left&display=inline&height=178&originHeight=178&originWidth=2080&size=0&status=done&width=2080)
+
+在代码块查询界面，可以搜索你想要的代码块，查看代码块内容或者插入使用，当然你也可以看到插入和分享的代码块的历史记录，方便再次使用。
+
+![分享代码块.gif](https://cdn.nlark.com/yuque/0/2019/gif/307794/1556435835668-38ea9e8d-270b-4678-a9f6-71c833df1551.gif#align=left&display=inline&height=768&name=%E5%88%86%E4%BA%AB%E4%BB%A3%E7%A0%81%E5%9D%97.gif&originHeight=768&originWidth=1536&size=7719500&status=done&width=1536)
+
+<a name="6aAaw"></a>
+### 2. 代码块分享
+如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752419-7835cb54-f6dc-498b-9e48-545badb6a7a6.jpeg#align=left&display=inline&height=360&originHeight=360&originWidth=2064&size=0&status=done&width=2064)
+
+在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)
+
+
