@@ -115,7 +115,7 @@ plt.show()
 ## 6. 你可以插入或分享代码块
 代码块是具有某个特定功能的代码片段。当你在 Notebook 中进行程序开发时，如果想实现某个功能函数，可以先试着搜索一下代码块，可能会找到你想要的代码，不用再重新撰写。代码块设计的用意是为了减少不必要的重复代码编写。
 <a name="FFtCI"></a>
-### 1. 代码块插入
+### 6.1 代码块插入
 在 Notebook 中选择你要插入代码块的 celll 点击左上角的 + 号按钮，打开搜寻代码块界面。
 
 ![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752432-4778d991-e372-4581-b40d-6050a08c8cc3.jpeg#align=left&display=inline&height=178&originHeight=178&originWidth=2080&size=0&status=done&width=2080)
@@ -125,9 +125,24 @@ plt.show()
 ![分享代码块.gif](https://cdn.nlark.com/yuque/0/2019/gif/307794/1556435835668-38ea9e8d-270b-4678-a9f6-71c833df1551.gif#align=left&display=inline&height=768&name=%E5%88%86%E4%BA%AB%E4%BB%A3%E7%A0%81%E5%9D%97.gif&originHeight=768&originWidth=1536&size=7719500&status=done&width=1536)
 
 <a name="6aAaw"></a>
-### 2. 代码块分享
+### 6.2 代码块分享
 如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752419-7835cb54-f6dc-498b-9e48-545badb6a7a6.jpeg#align=left&display=inline&height=360&originHeight=360&originWidth=2064&size=0&status=done&width=2064)
 
 在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)
 
+## 7. 你可以邀请好友进行协作
+Mo Notebook 开发环境支持多人协作，你可以邀请好友或同事共同进行项目研发。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556434316256-7b3bea6a-d4e3-4c21-a144-cdf0282c9579.png#align=left&display=inline&height=491&name=image.png&originHeight=982&originWidth=2554&size=336576&status=done&width=1277)
+
+邀请成功后，你可以享受以下功能：
+<a name="ZQRJL"></a>
+### 7.1 即时同步编辑内容并查看对方编辑状态
+![](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435061620-6cc579c0-632c-43d3-bba6-9800954f98c1.png#align=left&display=inline&height=321&originHeight=658&originWidth=1530&status=done&width=746)
+
+<a name="hhyWN"></a>
+### 7.2 代码块定位与分享
+     （1）点击发送代码块按钮<br />     （2）填写消息<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435317759-5712400a-17a6-407f-b63b-a4c15bbecb1a.png#align=left&display=inline&height=385&name=image.png&originHeight=770&originWidth=1652&size=98885&status=done&width=826) 
+<a name="T3tCa"></a>
+### 7.3 通过私有聊天组进行实时交流
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435409360-ce4785ec-0d67-494f-a499-2667b7e6686e.png#align=left&display=inline&height=516&name=image.png&originHeight=1032&originWidth=2364&size=279698&status=done&width=1182)
+<a name="7EVfj"></a>
 
