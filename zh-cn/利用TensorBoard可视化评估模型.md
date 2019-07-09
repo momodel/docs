@@ -97,10 +97,10 @@ with tf.Session() as sess:
 ```
 
 ## 3. 利用 TensorBoard 查看模型结构和训练情况
-点击左侧 Running Tab栏，点击TensorBoard图标按钮!<img src='http://imgbed.momodel.cn/006tNbRwly1fxujoqwfhyj305a01idfp.jpg' width=10% height=10%>打开TensorBoard网页界面。
+点击左侧 Running Tab栏，点击TensorBoard图标按钮<img src='http://imgbed.momodel.cn/TensorBoard icon.png' width=5% height=5%>打开TensorBoard网页界面。
 
-<img src='http://imgbed.momodel.cn/006tNbRwly1fxujjrojduj30ie0f2q3s.jpg' width=50% height=50%>
+<img src='http://imgbed.momodel.cn/TensorBoard.png' width=50% height=50%>
 
 查看你的模型Graph和训练情况。
 
-<img src='http://imgbed.momodel.cn/006tNbRwly1fxujuskv2bg30sg0ga7wh.gif' width=90% height=90%>
+<img src='http://imgbed.momodel.cn/Tensorboard.gif' width=90% height=90%>
