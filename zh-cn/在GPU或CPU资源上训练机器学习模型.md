@@ -125,7 +125,7 @@ print('Test score:', score[0])
 print('Test accuracy:', score[1])
 ```
 
-*如果觉得训练时间太长, 可以直接点击 Notebook 顶部的<img src='http://imgbed.momodel.cn/5cc1a287e3067ceb154f0e42.jpg' width='30px'>按钮停止程序的运行, 然后到下一小节, 把以上代码转换为py类型的文件，通过创建 Job 任务的方式训练模型。*
+*如果觉得训练时间太长, 可以直接点击 Notebook 顶部的<img src='http://imgbed.momodel.cn/stop.png' width='30px'>按钮停止程序的运行, 然后到下一小节, 把以上代码转换为py类型的文件，通过创建 Job 任务的方式训练模型。*
 
 最后保存训练好的模型
 
