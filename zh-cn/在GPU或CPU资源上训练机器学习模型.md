@@ -154,6 +154,7 @@ Notebook 中的代码是在 *.ipynb 文件下的，为之后创建Job和部署�
 <img src='http://imgbed.momodel.cn/complete.png' width=30% height=30%>
 
 Job运行成功后系统会弹出以下弹框提示Job运行完成，恭喜您已经学会了如何在GPU或CPU资源上训练您的第一个任务～
+
 <img src='http://imgbed.momodel.cn/success.png' width=50% height=50%>
 
 
