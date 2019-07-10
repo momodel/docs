@@ -147,7 +147,7 @@ Notebook 中的代码是在 *.ipynb 文件下的，为之后创建Job和部署�
 <img src='http://imgbed.momodel.cn/GPU.gif' width=80% height=50%>
 
 ## 5. 查看 Job 运行进程
-成功创建 Job后, 可以在左侧Jobs栏中查看运行状态和运行日志，或者您也可以在项目详情页的 Jobs 栏中查看任务, Job 运行成功或失败您都可以收到通知消息。当然您也可以通过终止按钮终止训练过程。如果您的训练状态显示为沙漏等待图标(queuing)，说明当前GPU资源被占用正在排队等待。如果显示为运行中(running)说明 Job 正在运行。如果显示为运行失败(failed)则说明Job因为运行错误而中断，请检查您的代码。在训练过程中和训练完成后您都可以点击查看日志观察运行日志。以下展示了Job运行过程中的三种状态。
+成功创建 Job后, 可以在左侧Jobs栏中查看运行状态和运行日志，或者您也可以在项目详情页的 Jobs 栏中查看任务, Job 运行成功或失败您都可以收到通知消息。当然您也可以通过终止按钮终止训练过程。如果您的训练状态显示为沙漏等待图标(queuing)，说明当前GPU资源被占用正在排队等待。如果显示为运行中(running)说明 Job 正在运行。如果显示为运行失败(failed)则说明Job因为运行错误而中断，请检查您的代码。在训练过程中和训练完成后您都可以点击`查看日志`观察运行日志。以下展示了Job运行过程中的三种状态。
 
 <img src='http://imgbed.momodel.cn/prepare.png' width=30% height=30%>
 <img src='http://imgbed.momodel.cn/running.png' width=30% height=30%>
