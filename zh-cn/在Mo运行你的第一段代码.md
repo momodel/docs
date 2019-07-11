@@ -1,10 +1,10 @@
 # 在 Mo 运行你的第一段代码
 
-## 1. 在训练营中点击创建项目
+## 1. 在训练营中点击平台功能教程
 你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`在 Mo 运行你的第一行代码`，来按照教程中的`.ipynb`文件指引边学边做，熟悉Mo使用方法和开发流程。
 
 
-<img src='http://imgbed.momodel.cn/5cc1a291e3067ceb154f0e5c.jpg' width=100% height=100%>
+<img src='https://imgbed.momodel.cn/1.png' width=100% height=100%>
 
 ## 2. 在 Mo 运行你的第一行代码
 
@@ -118,7 +118,7 @@ plt.show()
 ### 6.1 代码块插入
 在 Notebook 中选择你要插入代码块的 celll 点击左上角的 + 号按钮，打开搜寻代码块界面。
 
-![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752432-4778d991-e372-4581-b40d-6050a08c8cc3.jpeg#align=left&display=inline&height=178&originHeight=178&originWidth=2080&size=0&status=done&width=2080)
+![](https://imgbed.momodel.cn/2.png#align=left&display=inline&height=178&originHeight=178&originWidth=2080&size=0&status=done&width=2080)
 
 在代码块查询界面，可以搜索你想要的代码块，查看代码块内容或者插入使用，当然你也可以看到插入和分享的代码块的历史记录，方便再次使用。
 
