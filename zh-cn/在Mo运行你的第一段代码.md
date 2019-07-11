@@ -131,7 +131,7 @@ plt.show()
 在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)
 
 ## 7. 你可以邀请好友进行协作
-Mo Notebook 开发环境支持多人协作，你可以邀请好友或同事共同进行项目研发。<br />![image.png](https://imgbed.momodel.cn/yunxingdaima4.png)
+Mo Notebook 开发环境支持多人协作，你可以点击加号，在“添加协作成员”弹窗中邀请好友或同事共同进行项目研发。<br />![image.png](https://imgbed.momodel.cn/yunxingdaima4.png)
 
 邀请成功后，你可以享受以下功能：
 <a name="ZQRJL"></a>
