@@ -118,7 +118,7 @@ plt.show()
 ### 6.1 代码块插入
 在 Notebook 中选择你要插入代码块的 celll 点击左上角的 + 号按钮，打开搜寻代码块界面。
 
-![image.png](https://imgbed.momodel.cn/yunxingdaima2.png#align=left&display=inline&height=178&originHeight=178&originWidth=2080&size=0&status=done&width=2080)
+![image.png](https://imgbed.momodel.cn/yunxingdaima2.png)
 
 在代码块查询界面，可以搜索你想要的代码块，查看代码块内容或者插入使用，当然你也可以看到插入和分享的代码块的历史记录，方便再次使用。
 
