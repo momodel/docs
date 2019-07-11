@@ -40,7 +40,7 @@ tf.keras.models.save_model(model, keras_file)
 ## 3. 将模型转换为 TensorFlow Lite 格式
 选择刚刚保存的`.h5`后缀的模型文件，然后右键选择 ```Convert To TensorLite``` 就可以得到转换之后的 TensorFlow Lite 模型文件。
 
-<img src='http://imgbed.momodel.cn/5cc1a289e3067ceb154f0e4a.jpg' width=50% height=50%>
+<img src='http://imgbed.momodel.cn/帮助文档 1.png' width=50% height=50%>
 
 ## 4. 下载转换后的模型并将其嵌入你的本地程序
 模型转换完成后，在左侧的文件列表中便可以看到以转换后的以 ```.tflite``` 为后缀的文件。
