@@ -140,7 +140,8 @@ Mo Notebook 开发环境支持多人协作，你可以点击加号，在“添�
 
 <a name="hhyWN"></a>
 ### 7.2 代码块定位与分享
-   （1）点击发送代码块按钮<br />     （2）填写消息<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435317759-5712400a-17a6-407f-b63b-a4c15bbecb1a.png#align=left&display=inline&height=385&name=image.png&originHeight=770&originWidth=1652&size=98885&status=done&width=826) 
+   （1）点击发送代码块按钮<br />     
+   （2）填写消息<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435317759-5712400a-17a6-407f-b63b-a4c15bbecb1a.png#align=left&display=inline&height=385&name=image.png&originHeight=770&originWidth=1652&size=98885&status=done&width=826) 
 <a name="T3tCa"></a>
 ### 7.3 通过私有聊天组进行实时交流
 ![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435409360-ce4785ec-0d67-494f-a499-2667b7e6686e.png#align=left&display=inline&height=516&name=image.png&originHeight=1032&originWidth=2364&size=279698&status=done&width=1182)
