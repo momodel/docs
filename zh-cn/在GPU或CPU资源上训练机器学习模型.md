@@ -137,7 +137,7 @@ model.save('results/my_model.h5')
 
 ## 3. 导出代码为 Python 文件
 由于加入了深层卷积网络, 此次训练过程可能会比较长, 我们不推荐在 Notebook 中进行长时间训练, 最好的方法是通过创建一个 GPU Job 后台训练模型。 
-Notebook 中的代码是在 *.ipynb 文件下的，为之后创建Job和部署做准备，点击 <img src='http://imgbed.momodel.cn/5cc1a287e3067ceb154f0e43.jpg' width=3% height=3%> 将其转为 `.py` 格式的标准 python 代码。然后整理你的代码，完成测试后，即可进行下一步的操作。  
+Notebook 中的代码是在 *.ipynb 文件下的，为之后创建 Job 和部署做准备，点击 <img src='http://imgbed.momodel.cn/5cc1a287e3067ceb154f0e43.jpg' width=3% height=3%> 将其转为 `.py` 格式的标准 python 代码。然后整理你的代码，完成测试后，即可进行下一步的操作。  
 
 *如果你是从模版中创建的项目，我们已经为你准备好了一份整理好的 `How_Train_Model.py` 文件, 你可以从左侧 'Files' 文件目录中双击查看, 并直接进行下一步。*  
 
