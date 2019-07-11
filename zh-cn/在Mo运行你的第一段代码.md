@@ -118,7 +118,7 @@ plt.show()
 ### 6.1 代码块插入
 在 Notebook 中选择你要插入代码块的 celll 点击左上角的 + 号按钮，打开搜寻代码块界面。
 
-![](https://imgbed.momodel.cn/yunxingdaima2.png#align=left&display=inline&height=178&originHeight=178&originWidth=2080&size=0&status=done&width=2080)
+![image.png](https://imgbed.momodel.cn/yunxingdaima2.png#align=left&display=inline&height=178&originHeight=178&originWidth=2080&size=0&status=done&width=2080)
 
 在代码块查询界面，可以搜索你想要的代码块，查看代码块内容或者插入使用，当然你也可以看到插入和分享的代码块的历史记录，方便再次使用。
 
@@ -126,7 +126,7 @@ plt.show()
 
 <a name="6aAaw"></a>
 ### 6.2 代码块分享
-如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752419-7835cb54-f6dc-498b-9e48-545badb6a7a6.jpeg#align=left&display=inline&height=360&originHeight=360&originWidth=2064&size=0&status=done&width=2064)
+如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752419-7835cb54-f6dc-498b-9e48-545badb6a7a6.jpeg#align=left&display=inline&height=360&originHeight=360&originWidth=2064&size=0&status=done&width=2064)
 
 在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)
 
