@@ -126,7 +126,7 @@ plt.show()
 
 <a name="6aAaw"></a>
 ### 6.2 代码块分享
-如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1556429752419-7835cb54-f6dc-498b-9e48-545badb6a7a6.jpeg#align=left&display=inline&height=360&originHeight=360&originWidth=2064&size=0&status=done&width=2064)
+如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />![image.png](https://imgbed.momodel.cn/yunxingdaima3.png)
 
 在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)
 
