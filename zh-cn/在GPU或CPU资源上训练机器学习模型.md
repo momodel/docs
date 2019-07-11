@@ -141,21 +141,21 @@ Notebook 中的代码是在 *.ipynb 文件下的，为之后创建 Job 和部署
 
 *如果你是从模版中创建的项目，我们已经为你准备好了一份整理好的 `How_Train_Model.py` 文件, 你可以从左侧 'Files' 文件目录中双击查看, 并直接进行下一步。*  
 
-## 4. 创建 GPU Job 训练模型
+## 4. 创建 GPU job 训练模型
 点击 Python 编辑器上方的 <img src='http://imgbed.momodel.cn/row.png' width=3% height=3%>创建 job 任务， 选择 `GPU 机器`创建 Job，我们可以选择为 Job 输入一个容易辨识名字，当然也可以选择不输入，系统会默认生成。您也可以创建 `Notebook 控制台` 或 `CPU 机器` 形式的 Job ，这需要根据您训练的模型特点选择。
 
 <img src='http://imgbed.momodel.cn/GPU.gif' width=80% height=50%>
 
-## 5. 查看 Job 运行进程
-成功创建 Job 后, 可以在左侧 JOBS 栏中查看运行状态和运行日志，或者您也可以在项目详情页的`任务`栏中查看任务, Job 运行成功或失败您都可以收到通知消息。当然您也可以通过终止按钮终止训练过程。
+## 5. 查看 job 运行进程
+成功创建 job 后, 可以在左侧 JOBS 栏中查看运行状态和运行日志，或者您也可以在项目详情页的`任务`栏中查看任务, job 运行成功或失败您都可以收到通知消息。当然您也可以通过终止按钮终止训练过程。
 
-如果您的训练状态显示为沙漏等待图标 (queuing)，说明当前GPU资源被占用正在排队等待。如果显示为运行中 (running) 说明 Job 正在运行。如果显示为运行失败(failed) 则说明 Job 因为运行错误而中断，请检查您的代码。在训练过程中和训练完成后您都可以点击`查看日志`查看运行日志。以下展示了 Job 运行过程中的三种状态。
+如果您的训练状态显示为沙漏等待图标 (queuing)，说明当前 GPU 资源被占用正在排队等待。如果显示为运行中 (running) 说明 job 正在运行。如果显示为运行失败(failed) 则说明 job 因为运行错误而中断，请检查您的代码。在训练过程中和训练完成后您都可以点击`查看日志`查看运行日志。以下展示了 job 运行过程中的三种状态。
 
 <img src='http://imgbed.momodel.cn/prepare.png' width=30% height=30%>
 <img src='http://imgbed.momodel.cn/running.png' width=30% height=30%>
 <img src='http://imgbed.momodel.cn/complete.png' width=30% height=30%>
 
-Job 运行成功后系统会弹出以下弹框提示 Job 运行完成，恭喜您已经学会了如何在 GPU 或 CPU 资源上训练您的第一个任务～
+job 运行成功后系统会弹出以下弹框提示 job 运行完成，恭喜您已经学会了如何在 GPU 或 CPU 资源上训练您的第一个任务～
 
 <img src='http://imgbed.momodel.cn/success.png' width=50% height=50%>
 
