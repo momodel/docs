@@ -73,14 +73,15 @@ handle函数是应用函数的的主函数，也是把输入和输出参数对�
 
 完成所有以上步骤后，点击第3步的 `部署` 按钮进行项目部署。
 
-<img src='http://imgbed.momodel.cn/5cc1a291e3067ceb154f0e58.jpg' width=40% height=40%>
+<img src='https://imgbed.momodel.cn/部署开始 (1).png' width=40% height=40%>
 
 在部署的时候，系统会自动对 `handler.py` 文件和 `app_spec.yml`  配置文件进行基本的格式检查，检查通过后才能进行部署，你可以选择需要发布的文件或勾选发布开发版本或正式版本（开发版本部署后只有所有者可以使用，正式版项目为公开的，所有人可见），然后点击 `OK`，进行部署。
 
-<img src='https://imgbed.momodel.cn/部署开始 (1).png' width=100% height=100%>
+<img src='https://imgbed.momodel.cn/部署检测.png' width=100% height=100%>
+
 
 在短暂的等待后, 回到应用的详情页面, 在右上角会有部署成功的通知。恭喜你！你已经完成了你的第一个APP的部署。
 
 ## 6. 运行已部署的应用
-然后你就可以找到这个项目，在网页中输入参数，运行得到输出结果，如果发现问题，可再回到项目中进行调试。
-<img src='http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e4c.jpg' width=80% height=80%>
+然后可以在部署栏里点击测试应用，在网页中输入参数，运行得到输出结果，如果发现问题，可再回到项目中进行调试。
+<img src='https://imgbed.momodel.cn/测试应用 (1).png' width=80% height=80%>
