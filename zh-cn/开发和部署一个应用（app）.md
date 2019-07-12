@@ -17,7 +17,7 @@
 5. 点击“插入模块”按钮， 插入模块
 6. 用 Notebook 界面顶上的运行按钮 <img src='http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e4f.jpg' width='30px'>， 或者 `Shift+Enter`， 即可运行插入的 Module
 
-<img src='https://imgbed.momodel.cn/插入模块2.gif' width=100% height=100%>
+<img src='https://imgbed.momodel.cn/insert moduels.gif' width=100% height=100%>
 
 如果你得到了下图中的结果， 那么恭喜你， 成功用模块进行了一次预测
 <img src='http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e4d.jpg' width='80%'>
