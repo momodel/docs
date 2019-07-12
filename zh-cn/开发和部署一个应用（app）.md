@@ -12,13 +12,12 @@
 在 Mo 的 Notebook 中，我们可以轻松的在我们自己的代码中，插入别人已经编写好的模块 (Module)。
 插入过程按以下步骤操作：
 1. 首先选择想要插入模块代码的 Cell
-2. 打开左侧的 Modules Tab， 搜索 `iris`, 选择 `iris_classifier`
-3. 在中间区域打开的 Tab 中， 浏览 Modules 详情, 选择对应的版本
-5. 点击 `Insert Code` 按钮， 插入 Module (插入代码时, 会有一个上方会有一个 `Importing...` 的提示框， 表示正在导入模型到项目中)
-6. 插入完成即可点击跳回 `*.ipynb` 的链接， 回到此 Notebook
-7. 用 Notebook 界面顶上的运行按钮 <img src='http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e4f.jpg' width='30px'>， 或者 `Shift+Enter`， 即可运行插入的 Module
+2. 打开左侧的模块图标， 搜索 `iris`, 选择 `iris_classifier`
+3. 在中间区域打开的 Tab 中， 浏览模块详情, 选择对应的版本
+5. 点击“插入模块”按钮， 插入模块
+6. 用 Notebook 界面顶上的运行按钮 <img src='http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e4f.jpg' width='30px'>， 或者 `Shift+Enter`， 即可运行插入的 Module
 
-<img src='https://imgbed.momodel.cn/插入模块.gif' width=100% height=100%>
+<img src='https://imgbed.momodel.cn/插入模块2.gif' width=100% height=100%>
 
 如果你得到了下图中的结果， 那么恭喜你， 成功用模块进行了一次预测
 <img src='http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e4d.jpg' width='80%'>
