@@ -30,26 +30,25 @@
 
 ![](http://imgbed.momodel.cn/5cc1a28be3067ceb154f0e52.jpg)
 
-3. 然后, 打开左侧的 Modules Tab，搜索 `new_face_feature`, 选择 `new_face_feature`
-4. 在中间区域打开的 Tab 中， 浏览 Modules 详情， 注意查看各个参数的说明
+3. 然后, 打开左侧的模块图标，搜索 `new_face_feature`, 选择 `new_face_feature`
+4. 在右侧区域打开的 Tab 中， 浏览模块详情， 注意查看各个参数的说明
 
-5. 在 Train 部分点击 插入代码 按钮， 插入此模块 (插入代码时, 会有一个上方会有一个 Importing... 的提示框， 表示正在导入模型到项目中)
-6. 插入完成即可点击跳回 *.ipynb 的链接， 回到此 Notebook
-7. 更改训练模块的输入参数，定义 `conf={'model_save_path': 'my_model.h5', 'epochs': 2, 'log_dir': './', 'data_path': './star-face', 'weight_save_path': 'my_weight.h5'}`
-8. 然后使用 shift+enter 快捷键或者点击上面的运行按钮运行刚才插入的几个cell
+5. 在 Train 部分点击 插入代码 按钮， 插入此模块 (插入代码时, 会有一个上方会有一个“插入中”的提示框， 表示正在导入模型到项目中)
+6. 更改训练模块的输入参数，定义 `conf={'model_save_path': 'my_model.h5', 'epochs': 2, 'log_dir': './', 'data_path': './star-face', 'weight_save_path': 'my_weight.h5'}`
+7. 然后使用 shift+enter 快捷键或者点击上面的运行按钮运行刚才插入的几个cell
 
 ![](http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e50.jpg)
 
-9. 训练完成后，在左侧可以看到模型和权重文件已经被保存下来了，然后我们就可以在预测部分使用它们了.
+8. 训练完成后，在左侧可以看到模型和权重文件已经被保存下来了，然后我们就可以在预测部分使用它们了.
 
 当然, 我们这里只是一个示例，模型没有很大， 训练的 epoch 也很小，效果提升不明显. 如果你使用的模型模块是基于深度神经网络的，并且网络结构很大，那么训练时间会比较长，这时候可以创建 job 并使用 GPU 来加速训练过程，详见[这里](https://momodel.github.io/docs/#/zh-cn/%E8%BE%B9%E5%AD%A6%E8%BE%B9%E5%81%9A?id=%E5%9C%A8gpucpu%E8%B5%84%E6%BA%90%E4%B8%8A%E8%AE%AD%E7%BB%83%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B).
 
 ## 5. 部署应用
-我们的功能代码在 Notebook 调试完成后就可以点击左侧的 Deploy Tab 栏，按照指引部署应用。
+我们的功能代码在 Notebook 调试完成后就可以点击左侧的部署图标，按照指引部署应用。
 
 1. 开始部署
 
-在 Notebook 中点击左侧栏中的 `Deploy` 按钮，进入部署页面。
+在 Notebook 中点击左侧栏中的部署图标，进入部署页面。
 
 <img src='http://imgbed.momodel.cn/5cc1a28be3067ceb154f0e54.jpg' width=40% height=40%>
 
