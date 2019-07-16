@@ -77,7 +77,7 @@ handle函数是应用函数的的主函数，也是把输入和输出参数对�
 
 在部署的时候，系统会自动对 `handler.py` 文件和 `app_spec.yml`  配置文件进行基本的格式检查，检查通过后才能进行部署，你可以选择需要发布的文件或勾选发布开发版本或正式版本（开发版本部署后只有所有者可以使用，正式版项目为公开的，所有人可见），然后点击“完成”，进行部署。
 
-<img src='https://imgbed.momodel.cn/2019-07-16 21_04_46-Develop and deploy an App - 应用 - Notebook - Mo.png' width=100% height=100%>
+<img src='https://imgbed.momodel.cn/2019-07-16 21_06_01-Develop and deploy an App - 应用 - Notebook - Mo.png' width=100% height=100%>
 
 
 在短暂的等待后, 回到应用的详情页面, 在右上角会有部署成功的通知。恭喜你！你已经完成了你的第一个APP的部署。
