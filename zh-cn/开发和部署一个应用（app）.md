@@ -50,7 +50,7 @@
 
 在 Notebook 中点击左侧栏中的部署图标，进入部署页面。
 
-<img src='C:\Users\zhi\Desktop\部署检测.png' width=40% height=40%>
+<img src='https://imgbed.momodel.cn/20190716171111.png' width=40% height=40%>
 
 2. 插入handle函数
 
