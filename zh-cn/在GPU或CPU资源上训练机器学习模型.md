@@ -4,7 +4,7 @@
 ## 1. 简介
 在 Mo 平台上你可以通过两种方式训练你的模型：在 Notebook 中直接运行、通过建立 Job 在 GPU/CPU 后台运行。前者在网页上长时间运行很容易因为各种外部因素而中断，适合短时间小模型的调试训练。后者则通过后台建立 Job 任务运行，而且可以选择 GPU 加速，适合长时间大模型的训练。
 
-本次教程采用卷积神经网络对手写数据集 ([MNIST](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html))进行分类，指引大家学习如何在 CPU/GPU 资源上训练机器学习模型，本教程采用卷积神经网络进行分类，相较于全连接神经网络具有更好的特征提取能力，能够更好地保存图片的二维特征，在手写数据集上的准确率也会有很大提升。你可以在新建应用项目时选择[从模版创建该教程项目](https://momodel.github.io/docs/#/zh-cn/%E5%B9%B3%E5%8F%B0%E6%95%99%E7%A8%8B?id=%E5%88%9B%E5%BB%BA%E6%95%99%E7%A8%8Bcreate-project)，按照指引完成相应的操作。
+本次教程采用卷积神经网络对手写数据集 ([MNIST](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html))进行分类，指引大家学习如何在 CPU/GPU 资源上训练机器学习模型，本教程采用卷积神经网络进行分类，相较于全连接神经网络具有更好的特征提取能力，能够更好地保存图片的二维特征，在手写数据集上的准确率也会有很大提升。<!--你可以在新建应用项目时选择[从模版创建该教程项目](https://momodel.github.io/docs/#/zh-cn/%E5%B9%B3%E5%8F%B0%E6%95%99%E7%A8%8B?id=%E5%88%9B%E5%BB%BA%E6%95%99%E7%A8%8Bcreate-project)，按照指引完成相应的操作。-->
 
 ## 2. 在 Notebook 中调试训练
 首先我们运行下面的 cell 代码进行必要模块的导入, 以及参数的定义, 我们在这里将每个 epoch 训练的的 batch_size 定为 128
@@ -45,10 +45,10 @@ pool_size = (2, 2)
 kernel_size = (3, 3)
 ```
 
-然后我们导入数据集以及做一些数据预处理
+然后我们导入平台中mnist.npz数据集，导入数据集可参考[如何导入并使用模块和数据集](https://momodel.github.io/docs/#/zh-cn/%E5%A6%82%E4%BD%95%E5%AF%BC%E5%85%A5%E5%B9%B6%E4%BD%BF%E7%94%A8%E6%A8%A1%E5%9D%97%E5%92%8C%E6%95%B0%E6%8D%AE%E9%9B%86)。之后运行下方代码做一些数据预处理工作。
 
 ```Python
-path = 'keras_mnist_data/mnist.npz'
+path = './datasets/vikramtiwari-mnist-numpy-momodel/mnist.npz'
 f = np.load(path)
 X_train, y_train = f['x_train'], f['y_train']
 X_test, y_test = f['x_test'], f['y_test']
@@ -125,7 +125,7 @@ print('Test score:', score[0])
 print('Test accuracy:', score[1])
 ```
 
-*如果觉得训练时间太长, 可以直接点击 Notebook 顶部的<img src='http://imgbed.momodel.cn/stop.png' width='30px'>按钮停止程序的运行, 然后到下一小节, 把以上代码转换为py类型的文件，通过创建 Job 任务的方式训练模型。*
+*如果觉得训练时间太长, 可以直接点击 Notebook 顶部的 <img src='http://imgbed.momodel.cn/stop.png' width=3% height=3%> 按钮停止程序的运行, 然后到下一小节, 把以上代码转换为py类型的文件，通过创建 Job 任务的方式训练模型。*
 
 最后保存训练好的模型
 
@@ -144,7 +144,8 @@ Notebook 中的代码是在 *.ipynb 文件下的，为之后创建 Job 和部署
 ## 4. 创建 GPU Job 训练模型
 点击 Python 编辑器上方的 <img src='http://imgbed.momodel.cn/row.png' width=3% height=3%>创建 Job 任务， 选择 `GPU 机器`创建 Job，我们可以选择为 Job 输入一个容易辨识名字，当然也可以选择不输入，系统会默认生成。您也可以创建 `Notebook 控制台` 或 `CPU 机器` 形式的 Job ，这需要根据您训练的模型特点选择。
 
-<img src='http://imgbed.momodel.cn/GPU.gif' width=80% height=50%>
+<!--<img src='http://imgbed.momodel.cn/GPU.gif' width=80% height=50%>-->
+<img src='https://imgbed.momodel.cn/RunningJob.gif' width=80% height=50%>
 
 ## 5. 查看 Job 运行进程
 成功创建 Job 后, 可以在左侧 JOBS 栏中查看运行状态和运行日志，或者您也可以在项目详情页的`任务`栏中查看任务, Job 运行成功或失败您都可以收到通知消息。当然您也可以通过终止按钮终止训练过程。
