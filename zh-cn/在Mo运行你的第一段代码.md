@@ -1,10 +1,10 @@
 # 在 Mo 运行你的第一段代码
 
 ## 1. 在训练营中点击平台功能教程
-你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`在 Mo 运行你的第一行代码`，来按照教程中的`.ipynb`文件指引边学边做，熟悉Mo使用方法和开发流程。
+你可以在`训练营`中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`在 Mo 运行你的第一行代码`，来按照教程中的`.ipynb`文件指引边学边做，熟悉Mo使用方法和开发流程。
 
-
-<img src='https://imgbed.momodel.cn/WX20190731-112310@2x.png' width=100% height=100%>
+![](https://imgbed.momodel.cn/pingtaijiaocheng.png)
+<!--<img src='https://imgbed.momodel.cn/WX20190731-112310@2x.png' width=100% height=100%>-->
 
 ## 2. 在 Mo 运行你的第一行代码
 
@@ -117,8 +117,8 @@ plt.show()
 <a name="FFtCI"></a>
 ### 6.1 代码块插入
 在 Notebook 中选择你要插入代码块的 celll 点击左上角的 + 号按钮，打开搜寻代码块界面。
-
-![image.png](https://imgbed.momodel.cn/yunxingdaima2.png)
+![image.png](https://imgbed.momodel.cn/jiahao.png)
+<!--![image.png](https://imgbed.momodel.cn/yunxingdaima2.png)-->
 
 在代码块查询界面，可以搜索你想要的代码块，查看代码块内容或者插入使用，当然你也可以看到插入和分享的代码块的历史记录，方便再次使用。
 
@@ -126,9 +126,12 @@ plt.show()
 
 <a name="6aAaw"></a>
 ### 6.2 代码块分享
-如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />![image.png](https://imgbed.momodel.cn/yunxingdaima3.png)
-
-在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)
+如果你觉得某些代码比较好，可以把这些代码放到一个 cell 中点击右上角的分享按钮，分享到平台中，供别人使用。<br />
+<!--![image.png](https://imgbed.momodel.cn/yunxingdaima3.png)-->
+![](https://imgbed.momodel.cn/fenxiang.png)
+在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />
+![](https://imgbed.momodel.cn/daimafenxiangtianchong.png)
+<!--![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)-->
 
 ## 7. 你可以邀请好友进行协作
 Mo Notebook 开发环境支持多人协作，你可以点击加号，在“添加协作成员”弹窗中邀请好友或同事共同进行项目研发。<br />![image.png](https://imgbed.momodel.cn/yunxingdaima4.png)
