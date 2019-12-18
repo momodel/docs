@@ -104,3 +104,4 @@ with tf.Session() as sess:
 查看你的模型 Graph 和训练情况。
 
 <img src='http://imgbed.momodel.cn/Tensorboard.gif' width=90% height=90%>
+<!--<img src="https://imgbed.momodel.cn/tensorbordXiangqin.png"/>-->
