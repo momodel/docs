@@ -118,10 +118,9 @@ plt.show()
 ### 6.1 代码块插入
 在 Notebook 中选择你要插入代码块的 celll 点击左上角的 + 号按钮，打开搜寻代码块界面。
 ![image.png](https://imgbed.momodel.cn/jiahao.png)
-<!--![image.png](https://imgbed.momodel.cn/yunxingdaima2.png)-->
 
 在代码块查询界面，可以搜索你想要的代码块，查看代码块内容或者插入使用，当然你也可以看到插入和分享的代码块的历史记录，方便再次使用。
-![](https://imgbed.momodel.cn/jiadaima.png)
+![](https://imgbed.momodel.cn/jiadaima1.png)
 <!--![分享代码块.gif](https://cdn.nlark.com/yuque/0/2019/gif/307794/1556435835668-38ea9e8d-270b-4678-a9f6-71c833df1551.gif#align=left&display=inline&height=768&name=%E5%88%86%E4%BA%AB%E4%BB%A3%E7%A0%81%E5%9D%97.gif&originHeight=768&originWidth=1536&size=7719500&status=done&width=1536)-->
 
 <a name="6aAaw"></a>
@@ -130,7 +129,7 @@ plt.show()
 <!--![image.png](https://imgbed.momodel.cn/yunxingdaima3.png)-->
 ![](https://imgbed.momodel.cn/fenxiang.png)
 在分享界面，你需要填写代码块的名字，用来描述这部分代码的功能；也可以填写标签分类信息，便于别人检索使用。<br />
-![](https://imgbed.momodel.cn/daimafenxiangtianchong.png)
+![](https://imgbed.momodel.cn/daimafenxiangtianchong1.png)
 <!--![image.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435948936-bd6fad5c-4066-46f9-a961-f66025e936d4.png#align=left&display=inline&height=432&name=image.png&originHeight=864&originWidth=1514&size=247352&status=done&width=757)-->
 
 ## 7. 你可以邀请好友进行协作
@@ -142,7 +141,6 @@ Mo Notebook 开发环境支持多人协作，你可以点击加号，在“添�
 <a name="ZQRJL"></a>
 ### 7.1 即时同步编辑内容并查看对方编辑状态
 ![](https://imgbed.momodel.cn/shishijiaoliu.png)
-<!--![](https://cdn.nlark.com/yuque/0/2019/png/307794/1556435061620-6cc579c0-632c-43d3-bba6-9800954f98c1.png#align=left&display=inline&height=321&originHeight=658&originWidth=1530&status=done&width=746)-->
 
 <a name="hhyWN"></a>
 ### 7.2 代码块定位与分享
