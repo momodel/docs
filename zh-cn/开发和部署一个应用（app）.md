@@ -4,8 +4,8 @@
 应用(app)一般由模块组成, 它能够满足普通用户的直接使用需求，例如航班延误预测应用, 图片风格迁移应用, 或者我们即将部署的兰花分类应用等。
 你可以在训练营中的[平台功能教程](http://www.momodel.cn:8899/classroom/class?id=5c5696cd1afd9458d456bf54&type=doc)，选择`开发和部署一个应用(APP)`，来按照教程中的`.ipynb`文件指引边学边做，通过调用别人已经部署的模块(Module)，开发和部署一个应用。
 
-## 2. 新建一个 Notebook
-你新建的任何应用Notebook都默认有下面这个cell代码，这部分代码是系统自动生成的，主要作用是引入一些默认的包、Client和其他一些控制文件。
+## 2. 新建一个项目
+在[工作台](https://momodel.cn/workspace?tab=app)中新建一个项目并进入开发页面，打开`coding_here.ipynb`或新建一个`notebook`（可参考帮助文档中的[基本页面](https://momodel.cn/docs/#/zh-cn/%E5%9F%BA%E6%9C%AC%E7%95%8C%E9%9D%A2)中的“开发环境”部分）。
 ![](http://imgbed.momodel.cn/5cc1a28be3067ceb154f0e53.jpg)
 
 ## 3. 调用他人发布公开的模块
@@ -14,7 +14,7 @@
 1. 首先选择想要插入模块代码的 Cell (在这里, 请选择下方 '请点击此处，插入module' 字样的 Cell)
 2. 打开左侧的模块图标， 搜索 `iris`, 选择 `iris_classifier`
 3. 在右侧区域打开的 Tab 中， 浏览模块详情, 选择对应的版本
-5. 点击“插入模块”按钮， 插入模块
+5. 点击`插入模块`按钮， 插入模块
 6. 用 Notebook 界面顶上的运行按钮 <img src='http://imgbed.momodel.cn/5cc1a28ae3067ceb154f0e4f.jpg' width='30px'>， 或者 `Shift+Enter`， 即可运行插入的 Module
 
 <img src='https://imgbed.momodel.cn/插入模块3.gif' width=100% height=100%>
@@ -50,18 +50,18 @@
 
 在 Notebook 中点击左侧栏中的部署图标，进入部署页面。
 
-<img src='https://imgbed.momodel.cn/20190716171111.png' width=40% height=40%>
+<img src='https://imgbed.momodel.cn/bushujiemein.png' width=40% height=40%>
 
 2. 插入handle函数
 
 handle函数是应用函数的的主函数，也是把输入和输出参数对应起来的接口函数，是部署之后其他人调用你的服务的处理方法。选中 Cell 代码的地方，点击第一步的“插入”按钮插入handle函数。然后根据前面调试的功能代码和定义的输入输出参数，整理 handle 函数。请按照该函数中的注释说明规范填写参数结构，这样系统就能自动提取输入输出参数，生成配置文件。
 
-<img src='https://imgbed.momodel.cn/部署2.png' width=40% height=40%>
+<img src='https://imgbed.momodel.cn/charuhandle.png' width=40% height=40%>
 
 3. 准备部署文件
 
 整理好 handle 函数之后，点击第二步的"开始"按钮，开始准备部署时需要的文件。
-<img src='https://imgbed.momodel.cn/部署3 (1).png' width=40% height=40%>
+<img src='https://imgbed.momodel.cn/kaishibushu.png' width=40% height=40%>
 
 以下为操作过程，首先选择需要部署的代码，handle 函数和新建 Notebook 生成的代码必须选择。然后预览生成的代码，如果有误可以点击上一步重新选择，接下来定义输入输出参数，这里定义四个输入参数，一个输出参数。最后生成 YML 配置文件，系统会根据之前定义的 handle 函数自动识别参数。通过这个步骤我们生成部署时需要的 Python 脚本和 YML 配置文件。
 当然，你可以对生成的 `handler.py` 和 `app_spec.yml` 文件进行进一步的编辑。
@@ -73,9 +73,9 @@ handle函数是应用函数的的主函数，也是把输入和输出参数对�
 
 完成所有以上步骤后，点击第3步的 `部署` 按钮进行项目部署。
 
-<img src='https://imgbed.momodel.cn/部署开始 (1).png' width=40% height=40%>
+<img src='https://imgbed.momodel.cn/kaishibushu.png' width=40% height=40%>
 
-在部署的时候，系统会自动对 `handler.py` 文件和 `app_spec.yml`  配置文件进行基本的格式检查，检查通过后才能进行部署，你可以选择需要发布的文件或勾选发布开发版本或正式版本（开发版本部署后只有所有者可以使用，正式版项目为公开的，所有人可见），然后点击“完成”，进行部署。
+在部署的时候，系统会自动生成 `handler.py` 文件和 `app_spec.yml`  配置文件，你可以选择需要发布的文件或勾选发布开发版本或正式版本（开发版本部署后只有所有者可以使用，正式版项目为公开的，所有人可见），然后点击“完成”，进行部署。
 
 <img src='https://imgbed.momodel.cn/2019-07-16 21_06_01-Develop and deploy an App - 应用 - Notebook - Mo.png' width=100% height=100%>
 
@@ -84,4 +84,4 @@ handle函数是应用函数的的主函数，也是把输入和输出参数对�
 
 ## 6. 运行已部署的应用
 然后可以在部署栏里点击测试应用，在网页中输入参数，运行得到输出结果，如果发现问题，可再回到项目中进行调试。
-<img src='https://imgbed.momodel.cn/测试应用 (1).png' width=80% height=80%>
+<img src='https://imgbed.momodel.cn/ceshixiangmu.png' width=80% height=80%>
