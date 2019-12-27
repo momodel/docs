@@ -3,7 +3,7 @@
 * [在Mo运行你的第一段代码](zh-cn/在Mo运行你的第一段代码.md)
 * [上传发布一个数据集](zh-cn/上传发布一个数据集.md)
 * [如何导入并使用模块和数据集](zh-cn/如何导入并使用模块和数据集.md)
-* [开发和部署一个应用（app）](zh-cn/开发和部署一个应用（app）.md)
+* [开发和部署一个项目](zh-cn/开发和部署一个应用（app）.md)
 * [在GPU或CPU资源上训练机器学习模型](zh-cn/在GPU或CPU资源上训练机器学习模型.md)
 * [利用TensorBoard可视化评估模型](zh-cn/利用TensorBoard可视化评估模型.md)
 * [把模型转换为TensorFlowLite格式](zh-cn/把模型转换为TensorFlowLite格式.md)
