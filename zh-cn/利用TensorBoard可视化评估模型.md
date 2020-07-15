@@ -105,3 +105,8 @@ with tf.Session() as sess:
 
 <!--<img src='http://imgbed.momodel.cn/Tensorboard.gif' width=90% height=90%>-->
 <img src="https://imgbed.momodel.cn/tensorbordXiangqin.png"/>
+
+如果你保存了多次训练的结果在不同的文件夹，可以在左侧点击选择想要查看的训练任务。
+
+<img src="http://imgbed.momodel.cn//tensorboard_multi_res.png" width=300>
+
