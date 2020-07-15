@@ -6,7 +6,7 @@
 你可以使用 TensorBoard 来可视化你的机器学习模型的推理图（graph）结构，显示训练过程中准确率和损失函数的变化，绘制关于图形执行的量化指标等等。下面以手写数据集 MNIST 为例，来帮助你在 Mo 平台上更便捷的使用 TensorBoard 可视化工具。更多关于 TensorBoard 的信息请参考[官方文档](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) 和 [官方Github开源项目](https://github.com/tensorflow/tensorboard)。你可以在新建应用项目时选择[从模版创建该教程项目](https://momodel.github.io/docs/#/zh-cn/%E5%B9%B3%E5%8F%B0%E6%95%99%E7%A8%8B?id=%E5%88%9B%E5%BB%BA%E6%95%99%E7%A8%8Bcreate-project)，按照指引进行相应的操作。
 
 ## 2. 撰写模型代码
-导入手写数据集，定义神经网络图结构和训练过程，并在程序代码中添加 TensorBoard 总结指令，具体可以参考 TensorBoard [官方文档](https://www.tensorflow.org/guide/summaries_and_tensorboard?hl=zh-cn)。这里需要注意产生的 logs 文件要保存在 `./results/tb_results`文件夹。
+导入手写数据集，定义神经网络图结构和训练过程，并在程序代码中添加 TensorBoard 总结指令，具体可以参考 TensorBoard [官方文档](https://www.tensorflow.org/guide/summaries_and_tensorboard?hl=zh-cn)。这里需要注意产生的 logs 文件要保存在 `./results/tb_results`文件夹。最好将每次训练的结果保存在不同的文件夹内，例如：将第一次训练的结果保存在`./results/tb_results/model1`文件夹内，将第二次训练的结果保存在`./results/tb_results/model2`文件夹内，避免出现 acc 曲线或者 loss 曲线异常显示的问题。
 
 ```Python
 import tensorflow as tf
