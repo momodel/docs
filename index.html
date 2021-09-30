@@ -1,82 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>Document - MO</title>
-		<link rel="shortcut icon" href="./favicon.ico">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-		<meta name="description" content="Description">
-		<meta name="referrer" content="no-referrer" />
-		<meta name="viewport"
-		      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<!--		<link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/themes/vue.css">-->
-		<link rel="stylesheet" href="./css/vue.css">
-		<!--<link rel="stylesheet" href="//unpkg.com/docsify/themes/buble.css">-->
-		<!--<link rel="stylesheet" href="//unpkg.com/docsify/themes/dark.css">-->
-		<!--<link rel="stylesheet" href="//unpkg.com/docsify/themes/pure.css">-->
 
-	</head>
-	<body>
-		<nav>
-			<a onclick="window.location.href = 'http://'+location.host" target="_self">返回网站</a>
-		</nav>
-		<div id="app">加载中</div>
-		<script>
-          window.$docsify = {
-            name: 'MO',
-            // repo: 'https://github.com/momodel',
-            homepage: 'zh-cn/简介.md',
-            auto2top: true,
+<head>
+  <meta charset="UTF-8">
+  <title>Document - MO</title>
+  <link rel="shortcut icon" href="./favicon.ico">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="referrer" content="no-referrer" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!--		<link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/themes/vue.css">-->
+  <!-- <link rel="stylesheet" href="./css/sidebar.min.css"> -->
+  <link rel="stylesheet" href="./css/vue.min.css">
 
-            loadSidebar: true,
-            subMaxLevel: 2,
-            alias: {
-              '/.*/_sidebar.md': '/_sidebar.md',
-            },
-// 	    routerMode: 'history',
-            loadNavbar: true,
-            coverpage: false,
-            maxLevel: 4,
-            search: {
-		    placeholder: '搜索',
-	    },
-            plugins: [
-              function (hook) {
-                var footer = [
-                  '<hr/>',
-                  '<footer>',
-                  '<span>© 2020 <a href="https://momodel.cn" target="view_window">Momodel Team</a></span>',
-                  '</footer>',
-                ].join('')
+  <!--<link rel="stylesheet" href="//unpkg.com/docsify/themes/buble.css">-->
+  <!--<link rel="stylesheet" href="//unpkg.com/docsify/themes/dark.css">-->
+  <!--<link rel="stylesheet" href="//unpkg.com/docsify/themes/pure.css">-->
 
-                hook.afterEach(function (html) {
-                  return html + footer
-                })
-              },
-            ],
-            copyCode: {
-                buttonText : '点击复制',
-                errorText  : '错误',
-                successText: '复制成功'
-            }
-          }
-		</script>
-<!--		<script src="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/docsify.min.js"></script>-->
-<!--		<script src="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/plugins/search.min.js"></script>-->
-<!--                <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/plugins/zoom-image.min.js"></script>-->
-<!--                <script src="//files.momodel.cn/docsify-copy-code%402.1.0/dist/docsify-copy-code.min.js"></script>-->
-		<script src="./js/docsify.min.js"></script>
-		<script src="./js/search.min.js"></script>
-		<script src="./js/zoom-image.min.js"></script>
-		<script src="./js/docsify-copy-code.min.js"></script>
-<style>
-.search input:focus {
-    background: none;
-}
-.search input {
-background: url(http://mo-imgs.momodel.cn/icon/search-icon.svg) no-repeat right center;
-background-size: 20px;
-}
-</style>
-	</body>
+</head>
+
+<body>
+  <nav>
+    <a onclick="window.location.href = 'http://'+location.host" target="_self">返回网站</a>
+  </nav>
+  <div id="app">加载中</div>
+  <script>
+    window.$docsify = {
+      name: 'MO',
+      // repo: 'https://github.com/momodel',
+      homepage: 'zh-cn/简介.md',
+      auto2top: true,
+
+      loadSidebar: true,
+      subMaxLevel: 4,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+      },
+      // 	    routerMode: 'history',
+      loadNavbar: true,
+      coverpage: false,
+      maxLevel: 4,
+      search: {
+        placeholder: '搜索',
+        sidebarDisplayLevel: 4, // set sidebar display level
+      },
+      plugins: [
+        function (hook) {
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span>© 2020 <a href="https://momodel.cn" target="view_window">Momodel Team</a></span>',
+            '</footer>',
+          ].join('')
+
+          hook.afterEach(function (html) {
+            return html + footer
+          })
+        },
+      ],
+      copyCode: {
+        buttonText: '点击复制',
+        errorText: '错误',
+        successText: '复制成功'
+      }
+    }
+  </script>
+  <!--		<script src="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/docsify.min.js"></script>-->
+  <!--		<script src="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/plugins/search.min.js"></script>-->
+  <!--                <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.11.4/plugins/zoom-image.min.js"></script>-->
+  <!--                <script src="//files.momodel.cn/docsify-copy-code%402.1.0/dist/docsify-copy-code.min.js"></script>-->
+  <script src="./js/docsify.min.js"></script>
+  <script src="./js/search.min.js"></script>
+  <script src="./js/zoom-image.min.js"></script>
+  <script src="./js/docsify-copy-code.min.js"></script>
+  <!-- <script src="./js/docsify-sidebar-collapse.min.js"></script> -->
+  <style>
+    .search input:focus {
+      background: none;
+    }
+
+    .search input {
+      background: url(http://mo-imgs.momodel.cn/icon/search-icon.svg) no-repeat right center;
+      background-size: 20px;
+      margin-right: 16px;
+    }
+
+    .search input::placeholder {
+      font-size: 14px;
+      font-family: PingFangSC-Regular, PingFang SC;
+      font-weight: 400;
+      color: #000000;
+    }
+
+    .search {
+      border-bottom: 1px solid #E8EAED;
+    }
+  </style>
+</body>
+
 </html>
