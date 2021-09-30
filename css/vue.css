@@ -337,7 +337,7 @@ main.hidden {
   left: 281px;
   text-align: center;
   transition: opacity .3s;
-  width: 28px;
+  width: 29px;
   z-index: 4;
   transition: left .25s ease-out;
 }
@@ -350,8 +350,8 @@ main.hidden {
   background-image: url(../img/close.svg);
   background-size: 34px;
   display: block;
-  width: 28px;
-  height: 28px;
+  width: 29px;
+  height: 29px;
 }
 .sidebar-toggle span:not(:first-child) {
   display: none;
