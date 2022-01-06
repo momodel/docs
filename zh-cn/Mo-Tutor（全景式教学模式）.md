@@ -10,12 +10,21 @@ Mo平台独创性开发了“沉浸式教学模式Mo-Tutor”，新模式的出�
 **1、如何进行课程学习？**
 
 
-在课程页面选择一门你感兴趣的课程，进入课程浏览页。
-![](https://cdn.nlark.com/yuque/0/2021/jpeg/309548/1636353065827-7c7ee0e5-d57e-43de-9e05-246b56ce7100.jpeg#id=J8F7d&originHeight=936&originWidth=1773&originalType=binary&ratio=1&status=done&style=none)
+在课程页面选择一门你感兴趣的课程。
+![](https://imgbed.momodel.cn/docs/kcy.png)
 
 
-点击进入课程开始学习
-![](https://cdn.nlark.com/yuque/0/2021/jpeg/309548/1636353066300-2aa49bc8-625f-4bef-9cb0-0bb4d9ff8b2d.jpeg#id=gxUWG&originHeight=628&originWidth=1271&originalType=binary&ratio=1&status=done&style=none)
+点击课程图片，进入课程介绍页，此页可查看该课程目录、评论、课程评分，还可进入讨论群进行交流。
+![](https://imgbed.momodel.cn/docs/kcjsy.png)
+
+
+点击 进入课程 开始学习，跳转至课程总览页。
+![](https://imgbed.momodel.cn/docs/kczly.png)
+
+
+课程总览页中左侧是课程总览与测验成绩，页面中间显示总进度与待学习小结和待通过测验份数，点击立即学习/继续学习，跳转至学习页面。
+![](https://imgbed.momodel.cn/docs/kcjd.png)
+
 
 
 **2、我们的学习页面有哪些特色功能？**
@@ -26,8 +35,8 @@ _帮助文档这里主要为您详细介绍课件里面的几大功能：_
 
 **（1）左侧课件目录**
 
-如图所示，左侧是您所学该课程的目录，每小节后面有环状显示进度，当状态为对号时，则表示学习完成。
-![](https://cdn.nlark.com/yuque/0/2021/jpeg/309548/1636353067026-db844f27-b775-42ad-b80d-ea1c83f8a1f8.jpeg#id=uzic2&originHeight=586&originWidth=1270&originalType=binary&ratio=1&status=done&style=none)
+左侧是您所学该课程的目录，每小节后面有环状显示进度，当状态为对号时，则表示学习完成；显示感叹号则表示测试未通过。
+![](https://imgbed.momodel.cn/docs/kjml.png)
 
 
 **​**
@@ -35,45 +44,50 @@ _帮助文档这里主要为您详细介绍课件里面的几大功能：_
 **（2）播放模块**
 
 
-如图所示，播放按钮有总控制按钮，课件段落会有小节讲解，点击即可播放，总播放按钮旁边会有倍速按钮，右侧会有当前页的知识点快选，点击即可你想要到达的知识点位置。
-![](https://cdn.nlark.com/yuque/0/2021/jpeg/309548/1636353067995-946c6969-8e67-47fd-bfe5-a9cf9ea06851.jpeg#id=d1i35&originHeight=634&originWidth=1270&originalType=binary&ratio=1&status=done&style=none)
+播放按钮有总控制按钮，课件段落会有小节讲解，点击即可播放，伴随播放GIF动画，总播放按钮旁边会有倍速按钮，右侧会有当前页的知识点快选，点击即可播放您所想听的知识点讲解。
+![](https://imgbed.momodel.cn/docs/bofang1.png)
+![](https://imgbed.momodel.cn/docs/bofang2.png)
 **​**
 
 **（3）页面图标按钮**
 
 
 课件正上方这是我们设置的可以翻页课程的按钮，小箭头所指的页码即是当前页码。
-![](https://cdn.nlark.com/yuque/0/2021/jpeg/309548/1636353068699-5bfd766a-fcc1-4411-8191-f03c0e1ae698.jpeg#id=fLIF7&originHeight=452&originWidth=1269&originalType=binary&ratio=1&status=done&style=none)
+![](https://imgbed.momodel.cn/docs/ymtb.png)
 
 
 **（4）聊天室模块**
 
 如图所示，右侧有悬浮气泡聊天的标识，点击打开聊天室。
 进入聊天室，你可以和其他用户进行某一个话题下的相关内容讨论和分享。
-![](https://cdn.nlark.com/yuque/0/2021/jpeg/309548/1636353069451-3b62989c-c8ad-430d-aa5c-2a4e8fc744e9.jpeg#id=jmXEr&originHeight=870&originWidth=1011&originalType=binary&ratio=1&status=done&style=none)
+![](https://imgbed.momodel.cn/docs/chat.png)
 **​**
 
 **（5）小记及高亮标注功能**
 
-** 添加小记**
-鼠标选中需要添加小记的文字，此时被选中的文字处于选中状态，被选中文字鼠标正上方呈现气泡，点击添加小记。输入文本内容后，点击【保存】，
-此条文本记录则保存。添加后，被选中文字持续展示蓝色背景色，转为「可点击」状态，点击后在页面右侧呈现笔记内容。
-![](https://cdn.nlark.com/yuque/0/2021/jpeg/309548/1636353070075-9e0ffcdf-346a-46e8-bfab-19e8070ec192.jpeg#id=MpXjS&originHeight=605&originWidth=1109&originalType=binary&ratio=1&status=done&style=none)​
+**添加小记**
+鼠标选中需要添加小记的文字，此时被选中的文字处于选中状态，被选中文字鼠标正上方呈现气泡，点击![](https://imgbed.momodel.cn/docs/tjxj.png)图标，添加小记。
+输入文本内容后，点击【保存】， 此条文本记录则保存。添加后，被选中文字持续展示蓝色背景色，转为「可点击」状态，点击后在页面右侧呈现笔记内容。
+![](https://imgbed.momodel.cn/docs/tjxj1.png)
+![](https://imgbed.momodel.cn/docs/tjxj2.png)
 **​**
 
 **添加高亮**
-鼠标选中需要高亮的文字，文本背景色显示为设定后的选中颜色，被选中文字鼠标正上方呈现气泡，点击【高亮】图标，此时被选中的文字处于选中状态，即保持文本背景色为蓝色状态。
+鼠标选中需要高亮的文字，文本背景色显示为设定后的选中颜色，被选中文字鼠标正上方呈现气泡，点击![](https://imgbed.momodel.cn/docs/gl.png)图标，
+此时被选中的文字处于选中状态，即保持文本背景色为蓝色状态。
+![](https://imgbed.momodel.cn/docs/highlight1.png)
+![](https://imgbed.momodel.cn/docs/highlight2.png)
 
-- **其他逻辑：**
-   - 当选中文本内容不同时，即可进行任意高亮操作，文本内容相同时则不支持重复添加（即选中重复内容时不呈现操作气泡图标），只允许对原有小记进行查看、编辑与删除操作
+**其他逻辑**
+   - 当选中文本内容不同时，即可进行任意高亮操作，文本内容相同时则不支持重复添加（即选中重复内容时不呈现操作气泡图标），只允许对原有小记进行查看、编辑与删除操作。
 
 取消高亮：
 
-   - 鼠标点击被高亮的蓝色文本内容，正上方呈现气泡，呈现【取消高亮】图标
-   - 点击【取消高亮】图标，则当前所高亮的文本背景色恢复为白色，即视为取消高亮状态
+   - 鼠标点击被高亮的蓝色文本内容，正上方呈现气泡，呈现![](https://imgbed.momodel.cn/docs/qxgl.png)图标
+   - 点击![](https://imgbed.momodel.cn/docs/qxgl.png)图标，则当前所高亮的文本背景色恢复为白色，即视为取消高亮状态
    - 若重复高亮后进行取消操作，取消最新框选文本内容形成的高亮状态
 
-![](https://cdn.nlark.com/yuque/0/2021/png/309548/1636353071856-532411e4-ae70-4716-8dc7-ced52922bdd8.png#id=pOlbx&originHeight=631&originWidth=1267&originalType=binary&ratio=1&status=done&style=none)
+![](https://imgbed.momodel.cn/docs/qxglym.png)
 **​**
 
 **（6）运行代码框**
@@ -88,7 +102,7 @@ C、点击返回按钮表示重置运行框内的代码，回到原始状态。
 
 
 **3、温馨提示**
-（1）您对本平台课程有任何建议可以在右侧聊天室联系工作人员进行反馈，也可以联系主页下方的邮箱。 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/309548/1636353949918-2e9447d5-4b37-4eeb-905a-a346c3a439bf.png#clientId=u8c727ca8-2170-4&from=paste&height=944&id=u199bd057&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1888&originWidth=3356&originalType=binary&ratio=1&size=1038513&status=done&style=none&taskId=u42a5e423-82a2-4f1e-b406-61840fe8e17&width=1678)
-（2）您的个人信息与课程学习可以在主页正上方点击头像进行查看和管理。
+（1）如果您对本平台课程有任何建议可以在右侧【反馈】中填写问卷或直接发给小Mo,也可通过官方微信、QQ、邮箱把您的想法告诉我们。
+![](https://imgbed.momodel.cn/docs/wxts1.png)
+![](https://imgbed.momodel.cn/docs/wxts2.png)
 
