@@ -4,7 +4,7 @@
 
 * 开始学习
   * [学习路径](zh-cn/学习路径.md)
-  * [Mo-Tutor（全景式教学模式）](zh-cn/Mo-Tutor（全景式教学模式）.md)
+  * [Mo-Tutor（沉浸式教学模式）](zh-cn/Mo-Tutor（沉浸式教学模式）.md)
   * [Mo-Lab学习模式](zh-cn/Mo-Lab学习模式.md)
 * 尝试开发
   * [上传发布数据集](zh-cn/上传发布数据集.md)
