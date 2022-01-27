@@ -341,6 +341,7 @@ main.hidden {
   width: 29px;
   z-index: 4;
   transition: left .25s ease-out;
+  cursor: pointer;
 }
 
 .sidebar-toggle .sidebar-toggle-button:hover {
