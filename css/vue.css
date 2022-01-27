@@ -498,6 +498,10 @@ body.close .content {
 
 @media screen and (max-width:768px) {
 
+  .app-nav.no-badge {
+    display: none;
+  }
+  
   .github-corner,
   .sidebar,
   .sidebar-toggle {
