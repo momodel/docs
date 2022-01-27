@@ -502,6 +502,30 @@ body.close .content {
   .sidebar-toggle {
     position: fixed
   }
+  
+  .sidebar-toggle {
+     left: 8px;
+     width: auto;
+     transition: left .25s ease-out;
+     padding: 0;
+  }
+  
+  body.close .sidebar-toggle {
+    top: 7px;
+    left: 281px;
+  }
+  
+  .sidebar-toggle span {
+    background-image: url(../img/open.svg);
+  }
+  
+  body.close .sidebar-toggle span {
+    background-image: url(../img/close.svg);
+  }
+  
+  .sidebar-toggle .sidebar-toggle-button:hover {
+    opacity: 1;
+  }
 
   .app-nav {
     margin-top: 16px
@@ -533,22 +557,9 @@ body.close .content {
   .github-corner {
     transition: transform .25s ease-out
   }
-
-  .sidebar-toggle {
-    background-color: transparent;
-    width: auto;
-    padding: 30px 30px 10px 10px
-  }
-
+  
   body.close .sidebar {
     transform: translateX(300px)
-  }
-
-  body.close .sidebar-toggle {
-    background-color: hsla(0, 0%, 100%, .8);
-    transition: background-color 1s;
-    width: 284px;
-    padding: 10px 0;
   }
 
   body.close .content {
