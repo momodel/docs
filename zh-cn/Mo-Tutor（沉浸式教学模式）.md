@@ -34,7 +34,8 @@ Mo平台独创性开发了“沉浸式教学模式Mo-Tutor”，新模式的出�
  除了通过点击课程内容查看消息，你还可以直接点击右侧栏的小记标识来查看你在本课程的所有小记并新增内容。<br />![iShot2022-06-10_18.04.15.png](https://imgbed.momodel.cn/iShot2022-06-10_18.04.15.png)<br />![iShot2022-06-10_18.08.18.png](https://imgbed.momodel.cn/iShot2022-06-10_18.08.18.png)<br />
 
 - **添加高亮** 
- 鼠标选中需要高亮的文字，文本背景色显示为设定后的选中颜色，被选中文字鼠标正上方呈现气泡，点击图标![](https://imgbed.momodel.cn/docs/gl.png)，此时被选中的文字处于选中状态，即保持文本背景色为蓝色状态。<br />![iShot2022-06-10_18.13.04.png](https://imgbed.momodel.cn/iShot2022-06-10_18.13.04.png)![iShot2022-06-10_18.14.20.png](https://imgbed.momodel.cn/iShot2022-06-10_18.14.20.png)<br />
+ 鼠标选中需要高亮的文字，文本背景色显示为设定后的选中颜色，被选中文字鼠标正上方呈现气泡，点击图标![](https://imgbed.momodel.cn/docs/gl.png)，此时被选中的文字处于选中状态，即保持文本背景色为蓝色状态。<br />![iShot2022-06-10_18.13.04.png](https://imgbed.momodel.cn/iShot2022-06-10_18.13.04.png)
+ ![iShot2022-06-10_18.14.20.png](https://imgbed.momodel.cn/iShot2022-06-10_18.14.20.png)<br />
 
 - **取消高亮**
 
