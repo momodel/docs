@@ -34,7 +34,7 @@ Mo平台独创性开发了“沉浸式教学模式Mo-Tutor”，新模式的出�
  除了通过点击课程内容查看消息，你还可以直接点击右侧栏的小记标识来查看你在本课程的所有小记并新增内容。<br />![iShot2022-06-10_18.04.15.png](https://imgbed.momodel.cn/iShot2022-06-10_18.04.15.png)<br />![iShot2022-06-10_18.08.18.png](https://imgbed.momodel.cn/iShot2022-06-10_18.08.18.png)<br />
 
 - **添加高亮** 
- 鼠标选中需要高亮的文字，文本背景色显示为设定后的选中颜色，被选中文字鼠标正上方呈现气泡，点击图标![](https://imgbed.momodel.cn/docs/gl.png)，此时被选中的文字处于选中状态，即保持文本背景色为蓝色状态。<br />![iShot2022-06-10_18.13.04.png](https://imgbed.momodel.cn/iShot2022-06-10_18.13.04.png)
+ 鼠标选中需要高亮的文字，文本背景色显示为设定后的选中颜色，被选中文字鼠标正上方呈现气泡，点击图标![](https://imgbed.momodel.cn/docs/gl.png)，此时被选中的文字处于选中状态，即保持文本背景色为蓝色状态。<br />![iShot2022-06-10_18.13.04.png](https://imgbed.momodel.cn/iShot2022-06-10_18.13.04.png)<br />
  ![iShot2022-06-10_18.14.20.png](https://imgbed.momodel.cn/iShot2022-06-10_18.14.20.png)<br />
 
 - **取消高亮**
@@ -51,7 +51,7 @@ Mo平台独创性开发了“沉浸式教学模式Mo-Tutor”，新模式的出�
 
 - **运行代码**<br />点击代码框左侧运行按钮，便会显示运行结果在方框下方。<br />![iShot2022-06-10_18.21.03.png](https://imgbed.momodel.cn/iShot2022-06-10_18.21.03.png)<br />
 
-- **清除变量**<br />代码框右上侧循环样式按钮，则会清除您所输入所有变量。 <br />![iShot2022-06-10_18.22.15.png](https://imgbed.momodel.cn/iShot2022-06-10_18.22.15.png)
+- **清除变量**<br />代码框右上侧循环样式按钮，则会清除您所输入所有变量。 <br />![iShot2022-06-10_18.22.15.png](https://imgbed.momodel.cn/iShot2022-06-10_18.22.15.png)<br />
 ![iShot2022-06-10_18.22.28.png](https://imgbed.momodel.cn/iShot2022-06-10_18.22.28.png)<br />
 
 - **重置代码**<br />点击返回按钮表示重置运行框内的代码，回到原始状态。<br />![iShot2022-06-10_18.23.20.png](https://imgbed.momodel.cn/iShot2022-06-10_18.23.20.png)<br />
