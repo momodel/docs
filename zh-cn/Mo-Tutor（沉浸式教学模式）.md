@@ -48,11 +48,13 @@ Mo平台独创性开发了“沉浸式教学模式Mo-Tutor”，新模式的出�
 
 - **运行代码**<br />点击代码框左侧运行按钮，便会显示运行结果在方框下方。<br />![iShot2022-06-10_18.21.03.png](https://imgbed.momodel.cn/iShot2022-06-10_18.21.03.png)<br />
 
-- **清除变量**<br />代码框右上侧循环样式按钮，则会清除您所输入所有变量。 <br />![iShot2022-06-10_18.22.15.png](https://imgbed.momodel.cn/iShot2022-06-10_18.22.15.png)![iShot2022-06-10_18.22.28.png](https://imgbed.momodel.cn/iShot2022-06-10_18.22.28.png)<br />
+- **清除变量**<br />代码框右上侧循环样式按钮，则会清除您所输入所有变量。 <br />![iShot2022-06-10_18.22.15.png](https://imgbed.momodel.cn/iShot2022-06-10_18.22.15.png)
+![iShot2022-06-10_18.22.28.png](https://imgbed.momodel.cn/iShot2022-06-10_18.22.28.png)<br />
 
 - **重置代码**<br />点击返回按钮表示重置运行框内的代码，回到原始状态。<br />![iShot2022-06-10_18.23.20.png](https://imgbed.momodel.cn/iShot2022-06-10_18.23.20.png)<br />
 
-- **插入代码**<br />点击「插入代码块」按钮，表示你可以自己输出全部的代码并运行，完成后还可以比对上面的代码。<br />![iShot2022-06-10_18.24.08.png](https://imgbed.momodel.cn/iShot2022-06-10_18.24.08.png)![iShot2022-06-10_18.24.38.png](https://imgbed.momodel.cn/iShot2022-06-10_18.24.38.png)
+- **插入代码**<br />点击「插入代码块」按钮，表示你可以自己输出全部的代码并运行，完成后还可以比对上面的代码。<br />![iShot2022-06-10_18.24.08.png](https://imgbed.momodel.cn/iShot2022-06-10_18.24.08.png)
+![iShot2022-06-10_18.24.38.png](https://imgbed.momodel.cn/iShot2022-06-10_18.24.38.png)
 
 ### 4、其他问题
 还有其他不明白的操作？如果您对本平台课程有任何建议可以在右侧【反馈】中填写问卷或直接发给小Mo,也可通过官方微信、QQ、邮箱把您的想法告诉我们。<br />![iShot2022-06-10_18.32.12.png](https://imgbed.momodel.cn/iShot2022-06-10_18.32.12.png)<br />![iShot2022-06-10_18.32.32.png](https://imgbed.momodel.cn/iShot2022-06-10_18.32.32.png)
