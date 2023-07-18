@@ -11,6 +11,7 @@
   * [开发和部署项目](zh-cn/开发和部署项目.md)
   * [在GPU或CPU资源上训练机器学习模型](zh-cn/在GPU或CPU资源上训练机器学习模型.md)
   * [利用TensorBoard可视化评估模型](zh-cn/利用TensorBoard可视化评估模型.md)
+  * [如何在Notebook中节省运行内存](zh-cn/如何在Notebook中节省运行内存.md)
 * 条款政策
   * [使用条款](zh-cn/使用条款.md)
   * [隐私政策](zh-cn/隐私政策.md)
