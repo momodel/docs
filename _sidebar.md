@@ -12,6 +12,9 @@
   * [在GPU或CPU资源上训练机器学习模型](zh-cn/在GPU或CPU资源上训练机器学习模型.md)
   * [利用TensorBoard可视化评估模型](zh-cn/利用TensorBoard可视化评估模型.md)
   * [如何在Notebook中节省运行内存](zh-cn/如何在Notebook中节省运行内存.md)
+* 活动规则
+  * [积分规则](zh-cn/积分规则.md)
+  * [打卡活动规则](zh-cn/打卡活动规则.md)
 * 条款政策
   * [使用条款](zh-cn/使用条款.md)
   * [隐私政策](zh-cn/隐私政策.md)
