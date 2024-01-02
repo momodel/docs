@@ -1,4 +1,3 @@
-
 # <img src="./media/mo.svg" style="opacity: 0.7;" width="120" height="120" />
 
 > Mo是一个支持数据分析和在线建模的开放平台
